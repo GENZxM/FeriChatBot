@@ -6,7 +6,7 @@
     "bot",
     "chat"
   ],
-  "repository": "https://github.com/FeriEXP/FeriChatBot",
+  "repository": "https://github.com/GENZxM/FeriChatBot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
